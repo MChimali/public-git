@@ -1,0 +1,21 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.label{
+    display:inline-block;
+    width: 160px;
+    text-align:right;
+    padding-right:10px;
+}
+.button{
+    margin-left:175px;
+    margin-top: 10px;
+    width: 158px;
+    line-height: 20px;
+
+}
+input{
+    width: 150px;
+    margin-top:5px;
+}

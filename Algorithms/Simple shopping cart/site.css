@@ -1,0 +1,56 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.product-description{
+    display: inline-block;
+    width: 250px;
+    text-align: right;
+}
+
+.product-container{
+    padding: 3px 0px 3px 0px;
+    
+}
+
+.product-unit {
+    width: 25px;
+    margin-left: 10px;
+    text-align: right;
+}
+
+.calculate-button {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+    width: 309px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    color:white;
+    background-color: rgb(89, 141, 89);
+}
+
+button[type="button"].error {
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+    width: 309px;
+    font-style: italic;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    color:rgb(83, 83, 83);
+    background-color: rgb(232, 255, 232);
+}
+    
+
+.prices {
+    width: 309px;
+    text-align: right;
+}
+p[class*="final"]{
+    display:inline-block;
+    width: 100px;
+    margin: 10px 0px 10px 0px;
+}
+
+.final-price{
+    font-size: 20px;
+    font-weight: 900;
+}

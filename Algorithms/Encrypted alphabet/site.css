@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.document-title{
+    text-align:center;
+}
+.text-area{
+    display:block;
+    font-size: 20px;
+    
+}
+
+.title{
+    width:445px;
+}
+.button-container{
+    width:340px;
+}
+.button-container{
+    margin:20px 0px 25px 75px;
+    
+}
+.button{
+    font-size: 20px;
+}
