@@ -1,6 +1,8 @@
-## Private customer Area & Architecture ##
+# Private customer Area & Architecture #
 
-* `npm install` to install all libraries necesaries to run the project
-* `npm start` to start the app
+### Private customer Area & Architecture ###
+
+* `npm install` to install all libraries required to run the app.
+* `npm start` to run the app.
 
 
