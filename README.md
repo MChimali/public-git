@@ -1,14 +1,17 @@
 ## USEFUL && COOL ##
 
-* Algorithms
+The purpose of this folder is to keep share some of the nice things I do. I hope I can get do update it often 😉!!
+
 * Bank - platform
+* I❤️Algorithms
 * Netflix landing page
 * React - architecture sample
 * Vue - product filter & detail page
 * Webpack seed - React
 * Webpack seed - Vue
 
-Each folder contains a project or a set of different projects on thir own. Each one of them contains an extra Readme with an overview of the project itself, how to apporach it and how to intall it.
+Each folder contains a project or a set of different projects on thir own. Each one of them contains an extra Readme with an overview of the project itself, how to approach it and how to install it.
 
 Keep it up! :-)
+
 

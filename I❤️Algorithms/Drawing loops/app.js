@@ -1,5 +1,5 @@
-//square function
-console.log("----------- square ------------")
+//square functioncxc 
+console.log("----------- squaresds  ------------")
 var square = (n, char) => {
     for (i = 0; i < n; i++){
         var show = " ";
