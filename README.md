@@ -1,6 +1,6 @@
 ## USEFUL && COOL ##
 
-The purpose of this folder is to keep share some of the nice things I do. I hope I can get do update it often 😉!!
+The purpose of this folder is to keep sharing some of the nice things I do. I hope I can get do update it often 😉!!
 
 * Bank - platform
 * I❤️Algorithms
