@@ -1,5 +1,5 @@
 //square functioncxc 
-console.log("----------- squaresds  ------------")
+console.log("------------ squaresds  -------------")
 var square = (n, char) => {
     for (i = 0; i < n; i++){
         var show = " ";
@@ -12,7 +12,7 @@ var square = (n, char) => {
 square(10, "+");
 console.log("         ")
 //Cuadrado con Borde
-console.log("------- square with border -------")
+console.log("-------- square with border --------")
  var squareBorder = (n, charOut, charIn) => {
 
     for (i = 0; i < n; i++){
@@ -37,7 +37,7 @@ console.log("         ")
 
 
 //Cuadrado Diagonal Left-Right
-console.log("---- square with diagonal L to R ----")
+console.log("----- square with diagonal L to R -----")
 var squareDiagonalLR = (n, diagonal, charUp, charDown) => {
     for (i = 0; i < n; i++){
         var show = " ";
@@ -58,7 +58,7 @@ squareDiagonalLR(10, "\\", "-", "+");
 console.log("         ")
 
 //Cuadrado Diagonal Riht-left
-console.log("---- square with diagonal R to L ----")
+console.log("----- square with diagonal R to L -----")
 var squareDiagonalRL = (n, diagonal, charUp, charDown) => {
     for (i = 0; i < n; i++){
         var show = " ";
@@ -80,7 +80,7 @@ squareDiagonalRL(10, "\\", "+", "-");
 console.log("         ")
 
 //Medio Diamante
-console.log("-------- Half diamond --------")
+console.log("--------- Half diamond ---------")
 var halfDiamond = (n, char) => {
     
     var itotal = 2 * n - 1;

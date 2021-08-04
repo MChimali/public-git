@@ -10,8 +10,8 @@ The purpose of this folder is to keep share some of the nice things I do. I hope
 * Webpack seed - React
 * Webpack seed - Vue
 
-Each folder contains a project or a set of different projects on thir own. Each one of them contains an extra Readme with an overview of the project itself, how to approach it and how to install it.
+Each folder contains a project or a set of different projects on their own. Each one of them contains an extra Readme with an overview of the project itself, how to approach it and how to install it.
 
-Keep it up! :-)
+Keep it up!😃
 
 
