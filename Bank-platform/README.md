@@ -17,7 +17,7 @@ The project is divided in `./server` and `./src`.
 
 * `./src` is the location of all the files that run the frontend of our application. In this folder you will find the next folder/files:
 
-  * `./index.html` By default the bundler will crawl through the folder `./src` looking for an `index.html`. Once it finds it, this file will perform as a "**spider web**", using the different files as they are called.
+  * `./index.html` By default the bundler will crawl through the folder `./src` looking for an `index.html`. Once it finds it, this file will perform as a "*spider web*", using the different files as they are called.
   *  `index.js` File called by `index.html`. This file then calls `login.html` in `./pages/login`.
   * `./pages` contains one folder per page of the app. Each folder contains an `index.html` file that will use the different components as they are needed. The idea is to set up pages that are as unconnected as possible from the rest of the app. All components needed for running a certain page should be within the folder of the page. We would have at least the following components:
     * `index.html` as the structure of the code. It will call a JS file in a `<script>` tag
