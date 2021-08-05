@@ -1,5 +1,7 @@
-# Drawing loops
+## Drawing loops ##
 
+The goal is to create algorithms that create in console the following patterns
+```
 ----------- square ------------
  +  +  +  +  +  +  +  +  +  +  
          
@@ -66,3 +68,4 @@
          + + + + +         
            + + +           
              +             
+```
