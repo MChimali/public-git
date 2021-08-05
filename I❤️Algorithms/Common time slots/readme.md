@@ -8,7 +8,7 @@ The steps of the algorithm are.
 3. If there is a common slot available show the slot, if there isn't then show "`Lo siento. No hay hueco disponible en el equipo.`"
 
 The agendas can look like this:
-
+```
 María Availability
     08:00 - 09:00: True
     09:00 - 10:00: True          
@@ -48,3 +48,4 @@ Marcos Availability
     13:00 - 14:00: False
     15:00 - 16:00: True
     16:00 - 17:00: False
+```
