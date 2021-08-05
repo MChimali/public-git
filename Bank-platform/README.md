@@ -31,7 +31,8 @@ The project is divided in `./server` and `./src`.
 
   * `./content` contains the general styles and images used. If there would be any need for any extra styling in a certain page, that would go into the folder of that page.
   * `./router` contains the components that orchestrate our entire app thanks to the definitions of the routes that will lead to each of our `index.html` in `./pages`.
-  * `./common` contains functionalities that are used in different locations of our application.
+
+* `./common` contains functionalities that are used in different locations of our application. Do not confuse with the `./core` as the first one are simple functionalities that are just simply shared by many components at the same time. 
 
   *Please note this way of Architecture is totally subjective and is intended to be used as a guide.*
 
