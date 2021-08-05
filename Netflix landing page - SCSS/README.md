@@ -1,4 +1,4 @@
-## SCSS Netflix landing page 🔥##
+## SCSS Netflix landing page 🔥
 
 Isn't that cool? The following folder contains the style needed to achieve the appearance for the Netflix landing page.
 
