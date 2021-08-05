@@ -5,9 +5,9 @@ The goal is to implement an algorithm that returns the optimal change given an a
 The app must provide with:
 
 * Input to introduce total price.
-* Input to introduce money given by client.
+* Input to introduce money given by the client.
 * Button to calculate the optimal change.
-* Once button is pressed, app must show optimal change in console.
+* Once the button is pressed, the app must show optimal change in the console.
 
 In the shop we can give notes of 5 €, 10 €, 20 €, 50 €, 100 € y 200 €. We also can give coins of 1, 2, 5, 10, 20 y 50 cents and coins of 1 and 2 euros.
 
