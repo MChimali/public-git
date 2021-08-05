@@ -1,6 +1,8 @@
 ## USEFUL && COOL ##
 The purpose of this folder is to keep sharing some of the nice things I do. I hope I can get do update it often 😉!!
 
+CLICK on any of the following repositories to find out more!
+
 * <a target="_blank" href="https://github.com/MChimali/Algorithms.git">I❤️Algorithms</a>
 * <a target="_blank" href="https://github.com/MChimali/Bank-platform.git">Bank - platform</a>
 * <a target="_blank" href="https://github.com/MChimali/Netflix-landing-page-SCSS.git">Netflix landing page</a>
