@@ -6,7 +6,6 @@ The message will be encrypted acording to the following transformation:
 ```
 var plainAlphabet = "abcdefghijklmnopqrstuvwxyz:()!¡,'";
 var encryptedAlphabet = "qw,ert(yuio'pa:sdfg!hjklz¡xcv)bnm";
-
 ```
 
 This way, once you introduce a text in the first text area and click button "encrypt" the message will appear encrypted in the other text area, obyeing to the transformation applied above. Push the button "Decrypt" to decrypt any message previously encrypted.
