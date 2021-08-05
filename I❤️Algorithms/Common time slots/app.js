@@ -1,4 +1,4 @@
-// Constantes
+// Constants
 var WORK_HOURS = [
   "08:00 - 09:00",
   "09:00 - 10:00",
@@ -10,7 +10,7 @@ var WORK_HOURS = [
   "16:00 - 17:00"
 ];
 
-// Datos
+// Data
 var myTeam = [
 { name: "María", availability: new Array(8).fill(true) },
 { name: "Pedro", availability: new Array(8).fill(true) },
