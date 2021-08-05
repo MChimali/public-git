@@ -10,7 +10,7 @@ The function will have the following signature
 var randomPick = (n, min, max) => {...}. 
 ```
 
-Using the function if we want to pick 10 random numbers between 1 and 100, we will use the above function like this:
+Using the function above, if we want to pick 10 random numbers between 1 and 100, we will use it like this:
 
 ```
 randomPick (10, 1, 100);
